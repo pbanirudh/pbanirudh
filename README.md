@@ -3,7 +3,7 @@
 <!-- ===================================================================== -->
 <!-- HEADER BANNER: Cyberpunk Neon Waving Gradient                         -->
 <!-- ===================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#0d1117,25:#161b22,50:#7928ca,75:#ff0080,100:#00f2fe&height=220&section=header&text=P%20B%20ANIRUDH%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Business%20Analyst%20%E2%80%A2%20Data%20Strategy%20%E2%80%A2%20Intelligence%20Systems&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#0d1117,25:#161b22,50:#7928ca,75:#ff0080,100:#00f2fe&height=220&section=header&text=P%20B%20ANIRUDH%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Business%20Analyst%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Business%20Insights&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- ===================================================================== -->
 <!-- DYNAMIC TYPING SVG: Neon Blue / Cyan Terminal Cycling Effect          -->
@@ -27,7 +27,7 @@
 ```yaml
 identity:
   name: "P B Anirudh"
-  role: "Aspiring Business Analyst & Data Strategist"
+  role: "Aspiring Business Analyst"
   mindset: "Translating messy operational datasets into clear, high-ROI business decisions"
   specializations:
     - "Exploratory Data Analysis (EDA) & Churn Prediction"
@@ -38,7 +38,7 @@ identity:
 ```
 
 - 📊 **Business Analytics & Insights:** Deciphering trends, cohort behaviors, and churn patterns to drive operational growth and customer retention.
-- 🔍 **Data-Driven Strategy:** Bridging business stakeholders with technical development teams through detailed requirement scoping, workflow modeling, and metrics tracking.
+- 🔍 **Business & Requirements Analysis:** Bridging business stakeholders with technical development teams through detailed requirement scoping, workflow modeling, and metrics tracking.
 - 🏆 **Featured Flagship Platforms:**
   - **[ERA](https://github.com/pbanirudh/ERA)** — Executive Retail Analytics and Churn Intelligence Platform (UK Wholesale Retail Intelligence leveraging SQL, Python, Excel & predictive modeling).
   - **[DigiLand](https://github.com/pbanirudh/DigiLand)** — Platform digitization & governance architecture built for SIH 2026.
@@ -52,7 +52,7 @@ identity:
 
 <div align="center">
 
-#### **Data Analysis, Modeling & Strategy**
+#### **Data Analysis, Modeling & Visualization**
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
