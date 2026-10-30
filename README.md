@@ -3,13 +3,13 @@
 <!-- ===================================================================== -->
 <!-- HEADER BANNER: Cyberpunk Neon Waving Gradient                         -->
 <!-- ===================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#0d1117,25:#161b22,50:#7928ca,75:#ff0080,100:#00f2fe&height=220&section=header&text=P%20B%20ANIRUDH%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%E2%80%A2%20Data%20Strategy%20%E2%80%A2%20Intelligence%20Systems&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#0d1117,25:#161b22,50:#7928ca,75:#ff0080,100:#00f2fe&height=220&section=header&text=P%20B%20ANIRUDH%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Business%20Analyst%20%E2%80%A2%20Data%20Strategy%20%E2%80%A2%20Intelligence%20Systems&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- ===================================================================== -->
 <!-- DYNAMIC TYPING SVG: Neon Blue / Cyan Terminal Cycling Effect          -->
 <!-- ===================================================================== -->
 <a href="https://github.com/pbanirudh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=100&lines=print(%22Hello%2C%20World!%20I'm%20Anirudh%20%F0%9F%91%8B%22);Business+Analyst+%26+Data+Strategist+%F0%9F%93%8A;Creator+of+ERA%2C+DigiLand+%26+IntelliTransit+%E2%9A%A1;Translating+Complex+Data+into+Business+Impact+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=100&lines=print(%22Hello%2C%20World!%20I'm%20Anirudh%20%F0%9F%91%8B%22);Aspiring+Business+Analyst+%F0%9F%93%8A;Creator+of+ERA%2C+DigiLand+%26+IntelliTransit+%E2%9A%A1;Translating+Complex+Data+into+Business+Impact+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ```yaml
 identity:
   name: "P B Anirudh"
-  role: "Business Analyst & Data Intelligence Strategist"
+  role: "Aspiring Business Analyst & Data Strategist"
   mindset: "Translating messy operational datasets into clear, high-ROI business decisions"
   specializations:
     - "Exploratory Data Analysis (EDA) & Churn Prediction"
