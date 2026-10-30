@@ -3,13 +3,13 @@
 <!-- ===================================================================== -->
 <!-- HEADER BANNER: Cyberpunk Neon Waving Gradient                         -->
 <!-- ===================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#0d1117,25:#161b22,50:#7928ca,75:#ff0080,100:#00f2fe&height=220&section=header&text=P%20B%20ANIRUDH%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20SIH%20Innovator&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#0d1117,25:#161b22,50:#7928ca,75:#ff0080,100:#00f2fe&height=220&section=header&text=P%20B%20ANIRUDH%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%E2%80%A2%20Data%20Strategy%20%E2%80%A2%20Intelligence%20Systems&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- ===================================================================== -->
 <!-- DYNAMIC TYPING SVG: Neon Blue / Cyan Terminal Cycling Effect          -->
 <!-- ===================================================================== -->
 <a href="https://github.com/pbanirudh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=100&lines=print(%22Hello%2C%20World!%20I'm%20Anirudh%20%F0%9F%91%8B%22);AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Creator+of+DigiLand%2C+ERA+%26+IntelliTransit+%E2%9A%A1;Building+Intelligent%2C+High-Impact+Platforms+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=100&lines=print(%22Hello%2C%20World!%20I'm%20Anirudh%20%F0%9F%91%8B%22);Business+Analyst+%26+Data+Strategist+%F0%9F%93%8A;Creator+of+ERA%2C+DigiLand+%26+IntelliTransit+%E2%9A%A1;Translating+Complex+Data+into+Business+Impact+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -27,46 +27,47 @@
 ```yaml
 identity:
   name: "P B Anirudh"
-  focus: "Artificial Intelligence, Deep Learning & Applied Machine Learning"
-  mindset: "Engineering intelligent solutions that solve complex, real-world problems"
-  highlights:
-    - "Smart India Hackathon (SIH 2026): Architect of DigiLand AI Platform"
-    - "Full-cycle ML: From OCR & GIS Pipelines to High-Speed Web APIs"
-    - "Intelligent Analytics & Fleet Optimization Systems"
-  current_quest: "Deepening Generative AI, Multimodal Architectures & Autonomous Agents"
+  role: "Business Analyst & Data Intelligence Strategist"
+  mindset: "Translating messy operational datasets into clear, high-ROI business decisions"
+  specializations:
+    - "Exploratory Data Analysis (EDA) & Churn Prediction"
+    - "Executive Analytics Dashboards & KPI Monitoring"
+    - "Requirements Engineering & Business Process Optimization"
+  flagship_work: "ERA (Executive Retail Analytics & Churn Intelligence Engine)"
+  mantra: "Without data, you're just another person with an opinion."
 ```
 
-- 🧠 **AI & Deep Learning:** Building end-to-end intelligent pipelines — OCR document parsing, computer vision, geospatial intelligence, and predictive machine learning.
-- 🛠️ **Full-Stack Synergy:** Pairing robust AI backends (FastAPI, Python) with modern, reactive frontends (React, modern JavaScript).
-- 🏆 **Flagship Ventures:**
-  - **[DigiLand](https://github.com/pbanirudh/DigiLand)** — AI-Powered Land Records Digitization Platform built for SIH 2026 featuring OCR, GIS mapping, and blockchain verification.
-  - **[ERA](https://github.com/pbanirudh/ERA)** — Executive Retail Analytics and Churn Intelligence Platform utilizing SQL, Python & ML algorithms.
-  - **[IntelliTransit](https://github.com/pbanirudh/IntelliTransit)** — Real-time college bus tracking and fleet intelligence system.
-- 💬 **Ask Me About:** Python, PyTorch, FastAPI, building hackathon-winning architectures, and data modeling.
-- ⚡ **Philosophy:** `"Code with intent, build with intelligence."`
+- 📊 **Business Analytics & Insights:** Deciphering trends, cohort behaviors, and churn patterns to drive operational growth and customer retention.
+- 🔍 **Data-Driven Strategy:** Bridging business stakeholders with technical development teams through detailed requirement scoping, workflow modeling, and metrics tracking.
+- 🏆 **Featured Flagship Platforms:**
+  - **[ERA](https://github.com/pbanirudh/ERA)** — Executive Retail Analytics and Churn Intelligence Platform (UK Wholesale Retail Intelligence leveraging SQL, Python, Excel & predictive modeling).
+  - **[DigiLand](https://github.com/pbanirudh/DigiLand)** — Platform digitization & governance architecture built for SIH 2026.
+  - **[IntelliTransit](https://github.com/pbanirudh/IntelliTransit)** — Real-time fleet operations and routing optimization platform.
+- 💬 **Ask Me About:** SQL query optimization, customer segmentation, churn prediction, KPI dashboard design, and business logic architecture.
+- ⚡ **Fun Fact:** Give me a cluttered dataset and a cup of coffee, and I'll find the story hidden inside it.
 
 ---
 
-### 🧬 Neural Arsenal // Tech Stack & Tools
+### 🧬 Analytics Arsenal // Tech Stack & Tooling
 
 <div align="center">
 
-#### **Artificial Intelligence & Data Science**
+#### **Data Analysis, Modeling & Strategy**
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-#### **Full-Stack & Systems Architecture**
+#### **Database Systems, APIs & Engineering**
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
@@ -74,7 +75,7 @@ identity:
 #### **Interactive Tech Dashboard**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,opencv,fastapi,react,js,postgres,docker,linux,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,fastapi,react,js,docker,git,github,linux&theme=dark" />
   </a>
 </p>
 
@@ -82,13 +83,13 @@ identity:
 
 ---
 
-### 🚀 Featured Deployments
+### 🚀 Featured Case Studies & Deployments
 
-| Project | Description | Stack | Link |
+| Project | Domain | Core Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🌐 **DigiLand** | AI-Powered Land Records Digitization Platform (**SIH 2026**) with OCR & GIS | `Python` `FastAPI` `React` `OCR` | [Explore ↗](https://github.com/pbanirudh/DigiLand) |
-| 📊 **ERA** | Executive Retail Analytics & Churn Intelligence Engine | `Python` `Machine Learning` `SQL` | [Explore ↗](https://github.com/pbanirudh/ERA) |
-| 🚌 **IntelliTransit** | Real-time Fleet Intelligence & College Transit Tracking Platform | `JavaScript` `Node` `Full-Stack` | [Explore ↗](https://github.com/pbanirudh/IntelliTransit) |
+| 📊 **ERA** | Executive Retail Analytics & Churn Intelligence Engine (UK Wholesale) | `SQL` `Python` `Excel` `Predictive Analytics` | [Explore ↗](https://github.com/pbanirudh/ERA) |
+| 🌐 **DigiLand** | Land Records Digitization & Governance Platform (**SIH 2026**) | `FastAPI` `React` `Process Automation` | [Explore ↗](https://github.com/pbanirudh/DigiLand) |
+| 🚌 **IntelliTransit** | Fleet Intelligence & Operational Route Optimization Platform | `JavaScript` `Node` `Telemetry` | [Explore ↗](https://github.com/pbanirudh/IntelliTransit) |
 
 ---
 
