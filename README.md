@@ -3,14 +3,18 @@
 <!-- ===================================================================== -->
 <!-- HEADER BANNER: Cyberpunk Neon Waving Gradient                         -->
 <!-- ===================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#0d1117,25:#161b22,50:#7928ca,75:#ff0080,100:#00f2fe&height=220&section=header&text=P%20B%20ANIRUDH%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Business%20Analyst%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Business%20Insights&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:161b22,50:7928ca,75:ff0080,100:00f2fe&height=270&section=header&text=P%20B%20ANIRUDH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Business%20Analyst%20%7C%20Data%20Analytics%20%7C%20Business%20Insights&descAlignY=58&descAlign=50" width="100%"/>
+
+<br/>
 
 <!-- ===================================================================== -->
-<!-- DYNAMIC TYPING SVG: Neon Blue / Cyan Terminal Cycling Effect          -->
+<!-- DYNAMIC TYPING SVG: Bigger Neon Cyan Terminal Cycling Effect          -->
 <!-- ===================================================================== -->
 <a href="https://github.com/pbanirudh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=780&height=100&lines=print(%22Hello%2C%20World!%20I'm%20Anirudh%20%F0%9F%91%8B%22);Aspiring+Business+Analyst+%F0%9F%93%8A;Creator+of+ERA%2C+DigiLand+%26+IntelliTransit+%E2%9A%A1;Translating+Complex+Data+into+Business+Impact+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=860&height=60&lines=print(%22Hello%2C%20World!%20I'm%20Anirudh%20%F0%9F%91%8B%22);Aspiring+Business+Analyst+%F0%9F%93%8A;Creator+of+ERA%2C+DigiLand+%26+IntelliTransit+%E2%9A%A1;Translating+Complex+Data+into+Business+Impact+%F0%9F%93%88" alt="Typing SVG" />
 </a>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://github.com/pbanirudh"><img src="https://img.shields.io/badge/GitHub-pbanirudh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -134,5 +138,5 @@ identity:
 <!-- FOOTER: Cyberpunk Neon Wave Reverse                                   -->
 <!-- ===================================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:#00f2fe,50:#7928ca,100:#0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:7928ca,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
